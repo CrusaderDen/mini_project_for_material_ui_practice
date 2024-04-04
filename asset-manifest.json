@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mini_project_for_material_ui_practice/static/css/main.e6c13ad2.css",
+    "main.js": "/mini_project_for_material_ui_practice/static/js/main.f3588200.js",
+    "index.html": "/mini_project_for_material_ui_practice/index.html",
+    "main.e6c13ad2.css.map": "/mini_project_for_material_ui_practice/static/css/main.e6c13ad2.css.map",
+    "main.f3588200.js.map": "/mini_project_for_material_ui_practice/static/js/main.f3588200.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f3588200.js"
+  ]
+}
