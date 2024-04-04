@@ -1,9 +1,6 @@
 import {useState} from 'react';
-
-import BasketList from './BasketList';
 import GoodsList from './GoodsList';
 import Search from './Search';
-
 import {goods} from '../data/goods';
 import {Header} from "./Header";
 import {Container} from "@mui/material";
